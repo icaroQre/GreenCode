@@ -1,0 +1,4 @@
+2024/06/15-18:20:21.556 fbc Creating DB c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\greencode\Default\Local Storage\leveldb since it was missing.
+2024/06/15-18:20:21.564 fbc Reusing MANIFEST c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\greencode\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/15-18:20:21.565 fbc Recovering log #3
+2024/06/15-18:20:21.565 fbc Reusing old log c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\greencode\Default\Local Storage\leveldb/000003.log 

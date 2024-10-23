@@ -1,0 +1,4 @@
+2024/06/15-18:20:21.574 188c Creating DB c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\greencode\Default\shared_proto_db since it was missing.
+2024/06/15-18:20:21.578 188c Reusing MANIFEST c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\greencode\Default\shared_proto_db/MANIFEST-000001
+2024/06/15-18:20:21.578 188c Recovering log #3
+2024/06/15-18:20:21.579 188c Reusing old log c:\Users\icaro\OneDrive\Área de Trabalho\work\venom-api\tokens\greencode\Default\shared_proto_db/000003.log 

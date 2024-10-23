@@ -1,0 +1,47 @@
+{
+  "554399694306@c.us": {
+    "threadId": {
+      "id": "thread_4RuDKTirNCPkUqZNOUFObFfs",
+      "object": "thread",
+      "created_at": 1719954699,
+      "metadata": {},
+      "tool_resources": {}
+    }
+  },
+  "120363023648435891@g.us": {
+    "threadId": {
+      "id": "thread_jemMdf7P01V0O1dQ1MD0O24f",
+      "object": "thread",
+      "created_at": 1719954788,
+      "metadata": {},
+      "tool_resources": {}
+    }
+  },
+  "554391108252@c.us": {
+    "threadId": {
+      "id": "thread_Txz4KiPx4TO7F42QbN1lDyub",
+      "object": "thread",
+      "created_at": 1720114106,
+      "metadata": {},
+      "tool_resources": {}
+    }
+  },
+  "5514998867061@c.us": {
+    "threadId": {
+      "id": "thread_NmxmNyPcR2FVt5JTNpKVTGHB",
+      "object": "thread",
+      "created_at": 1720115976,
+      "metadata": {},
+      "tool_resources": {}
+    }
+  },
+  "5515997237750@c.us": {
+    "threadId": {
+      "id": "thread_FruKmA60U8rmrfUWFYuCzu0U",
+      "object": "thread",
+      "created_at": 1720127423,
+      "metadata": {},
+      "tool_resources": {}
+    }
+  }
+}
