@@ -5,7 +5,7 @@ e refinida através de outros estudos e pesquisas, como a validação com pequen
 
 <br/>
 
-<img src="/src/assets/audios/images/gc.jpg" height="500">
+<img src="/src/assets/images/gc.jpg" height="500">
 
 ## Proposta
 A dificuldade na gestão e detalhamento dos processos no campo são problemas enfrentados por pequenos agricultores, isso acaba dificultanto o planejamento financeiro e também o rastreamento orgânico (indispensável para a certificação orgânica)
@@ -19,4 +19,4 @@ pode registrar em cadernos de campo todas as suas compras, as aplicações que f
 
 <br/>
 
-<img src="/src/assets/audios/images/wp.jpg" height="500">
+<img src="/src/assets/images/wp.jpg" height="500">
